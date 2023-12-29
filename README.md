@@ -17,9 +17,9 @@ ChemChain is an AI agent designed to provide access to a wide range of chemistry
 
 <div style="display: flex;">
   <center>
-  <img src="Figures/exp1.png" alt="Example" width="250" />
-  <img src="Figures/exp2.png" alt="Example" width="250" />
-  <img src="Figures/exp3.png" alt="Example" width="250" />
+  <img src="Figures/exp1.png" alt="Example" width="320" />
+  <img src="Figures/exp2.png" alt="Example" width="320" />
+  <img src="Figures/exp3.png" alt="Example" width="320" />
   </center>
 </div>
 Above shows three examples of chemchain in action with different responses.
