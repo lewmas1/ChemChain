@@ -1,0 +1,12 @@
+Flask==2.2.2
+ipython==8.15.0
+langchain==0.0.352
+matplotlib==3.7.2
+numpy==1.24.3
+pandas==2.0.3
+Pillow==10.1.0
+python-dotenv==1.0.0
+rdkit==2023.9.3
+Requests==2.31.0
+RXN4Chemistry==1.13.1
+scipy==1.11.1
